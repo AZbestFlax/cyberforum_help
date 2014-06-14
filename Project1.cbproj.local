@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2014.06.14 08:11:02.087,=C:\Users\AZbest\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014.06.14 08:11:02.252,=C:\Users\AZbest\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014.06.14 08:16:36.067,G:\Programist\C++\CF_help0015\Unit1.dfm=C:\Users\AZbest\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2014.06.14 08:16:36.067,G:\Programist\C++\CF_help0015\Unit1.cpp=C:\Users\AZbest\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014.06.14 08:16:36.067,G:\Programist\C++\CF_help0015\Unit1.h=C:\Users\AZbest\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2014.06.14 08:16:37.877,G:\Programist\C++\CF_help0015\Project1PCH1.h=C:\Users\AZbest\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014.06.14 08:16:38.693,G:\Programist\C++\CF_help0015\Project1.cbproj=C:\Users\AZbest\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
